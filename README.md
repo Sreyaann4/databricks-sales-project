@@ -1,4 +1,5 @@
 # databricks-sales-project
+
 this project demonstrates:
 -Databricks
 -Pyspark
